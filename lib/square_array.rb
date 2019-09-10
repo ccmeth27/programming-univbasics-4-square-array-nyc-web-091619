@@ -1,7 +1,7 @@
 def square_array(array)
   # counter = 0
   
-  while array[counter] do 
+ # while array[counter] do 
   Array.new(array.size) { |i| array[i] ** 2}
    # puts array[counter] *
    # counter += 1
